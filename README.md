@@ -8,4 +8,4 @@ Mausrad zum rein und raus zoomen
 
 Escape für Menü
 
-Figuren anclicken und danach Felder ancklicken zum bewegen und bauen
+Figuren anklicken und danach Felder anklicken zum bewegen und bauen
