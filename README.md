@@ -2,7 +2,10 @@ Download für den Build: https://drive.google.com/file/d/1lxGBKIWWjhT5aR1QMODOn1
 
 Steuerung:
 
-WASD um die Kamera zu drehen\r\n
+WASD um die Kamera zu drehen
+
 Mausrad zum rein und raus zoomen
 
 Escape für Menü
+
+Figuren anclicken und danach Felder ancklicken zum bewegen und bauen
